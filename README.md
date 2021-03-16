@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a frontend developer based in Nicaragua with 4+ years of experience. Currently working at Bejamas as a frontend developer, building great stuff with jamstack technologies.
 <!--
 **nephlin7/nephlin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
