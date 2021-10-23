@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frontend developer based in Nicaragua with 4+ years of experience. Currently working at Bejamas as a frontend developer, building great stuff with jamstack technologies.
+I'm a frontend developer based in Nicaragua with 4+ years of experience. Currently working at [Bejamas](https://bejamas.io/) as a frontend developer building great stuff with Jamstack technologies. I'm in love with Next.js / Typescript / Serverless functions.
 
 **Languages and Tools:**  
 
