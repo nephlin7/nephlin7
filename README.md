@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frontend developer based in Nicaragua 🇳🇮 with 5+ years of experience. Currently working at [Bejamas](https://bejamas.io/) as a Senior Frontend developer, building great stuff with React, Next.js, TypeScript, HeadlessCMS and more cool technologies.
+I'm a frontend developer based in Nicaragua 🇳🇮 with 6+ years of experience. Currently working at [Bejamas](https://bejamas.io/) as a Senior Frontend developer, building great stuff with React, Next.js, TypeScript, HeadlessCMS and more cool technologies.
 
 Since joining Bejamas I have had the opportunity to contribute to a few blog posts, take a look at some of them:
 
