@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm a frontend developer based in Nicaragua 🇳🇮 with 6+ years of experience. Currently working at [Bejamas](https://bejamas.io/) as a Senior Frontend developer, building great stuff with React, Next.js, TypeScript, HeadlessCMS and more cool technologies.
+Frontend Engineer based in Nicaragua 🇳🇮 with 6+ years of experience. Currently working at Bejamas as a Frontend Tech lead, building great stuff with React, Next.js, TypeScript, HeadlessCMS, and more cool technologies.
 
 Since joining Bejamas I have had the opportunity to contribute to a few blog posts, take a look at some of them:
 
+- [Astro review](https://bejamas.io/discovery/static-site-generators/astro)
 - [Gatsby vs. WordPress: Marketers Overview](https://bejamas.io/blog/gatsby-vs-wordpress/)
 - [TakeShape review](https://bejamas.io/discovery/headless-cms/takeshape/)
 - [Strapi review](https://bejamas.io/discovery/headless-cms/strapi/)
