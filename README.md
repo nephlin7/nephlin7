@@ -22,10 +22,6 @@ Since joining Bejamas I have had the opportunity to contribute to a few blog pos
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-
-**GitHub stats:**
-
-![Gerald’s github stats](https://github-readme-stats.vercel.app/api?username=nephlin7&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=dark)
 <!--
 **nephlin7/nephlin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
