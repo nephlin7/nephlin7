@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Engineer based in Nicaragua 🇳🇮 with 6+ years of experience. Currently working at Bejamas as a Frontend Tech lead, building great stuff with React, Next.js, TypeScript, HeadlessCMS, and more cool technologies.
+Frontend Engineer based in Nicaragua 🇳🇮 with 7+ years of experience. Currently working at Bejamas as a Senior Frontend Engineer, building great stuff with React, Next.js, TypeScript, HeadlessCMS, and more cool technologies.
 
 Since joining Bejamas I have had the opportunity to contribute to a few blog posts, take a look at some of them:
 - [Modernizing Van Raam’s website with a world-class stack](https://www.datocms.com/customer-stories/bejamas-and-van-raam)
